@@ -45,3 +45,5 @@ Implementar um sistema de contador de acertos.
 Adicionar efeitos sonoros ao girar o card.
 
 Opção de compartilhar a charada em redes sociais.
+
+Link de acesso pela vercel.com - https://frontend-charadas.vercel.app/
